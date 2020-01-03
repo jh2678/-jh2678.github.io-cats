@@ -1,0 +1,26 @@
+---
+title: "Flame Retardants and Feline Hyperthyroidism "
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+<img src="Cat sampler from OSU.png">
+
+## About the project: 
+
+The purpose of this study was to compare levels of flame retardants found in cat sampler tags of hyperthyroid and non-hyperthyroid cats. Between December 2017 and October 2018, we recruited 78 cats in Oregon and New York to wear silicone pet tags for 7 days. This tag absorbs chemicals from the air. It can also absorb chemicals from anything it touches, including water, soil, and even fur. The amount of chemicals in the tag reflects your cat’s personal exposure.
+
+
+We chose to focus on feline hyperthyroidism because it is very common in senior and geriatric housecats. We are looking at flame retardants in cats because some of them have been linked to health problems, although not all flame retardants are harmful.
+
+
+We analyzed the pet tags for 44 flame retardants. Flame retardants are present in many types of furniture, carpet, and other textiles, which you and your cat may come into contact with. Currently, there are no regulations for these chemicals.
+
+## About the collaboration:
+
+This project invovles a collaboration between researchers at Oregon State University (Dr. Kim Anderson, Carolyn Poutasse, Lane Tidwell), Columbia University (Dr. Julie Herbstman, Darrell Holmes, Dezere Gonzalez), and veterinarians at Oregon State University (Dr. Jana Gordon), Animal Endocine Clinic (Dr. Mark Peterson), and the New York Cat Hospital (Dr. Peter Soboroff).
+
+<img src="logos.png">
+

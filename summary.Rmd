@@ -1,0 +1,11 @@
+---
+title: "Summary of Findings"
+---
+
+Feline hyperthyroidism is associated with exposure to flame retardant chemicals found in household items, such as textiles and polyurethane foam. Feline hyperthyroidism is the most commonly diagnosed endocrine-related disease among senior and geriatric housecats.
+
+The researchers recruited owners of 78 housecats seven years and older with and without feline hyperthyroidism. The cats wore pet tags made of silicone, which pick up a variety of contaminants in the air, for seven days. The research team previously used similar silicone samplers, in the form of wristbands, to monitor human exposure to environmental chemicals.
+
+When they analyzed the silicone for flame retardant chemicals, the scientists found higher levels of the flame retardant tris(1,3-dichloroisopropyl) phosphate (TDCIPP) in the cats with hyperthyroidism. Among non-hyperthyroid cats, higher TDCIPP levels from the silicone tags were associated with higher blood levels of a hormone elevated in hyperthyroidism, indicating that they might be more likely to develop hyperthyroidism in the future. The higher TDCIPP exposures were linked to air freshener use, houses built since 2005, and cats that prefer to nap on upholstered furniture.
+
+TDCIPP and other alternatives were introduced as flame retardants after polybrominated diphenyl ethers (PBDEs) were phased out in 2004 due to environmental and health concerns. Previous research suggested a link between PBDEs and feline hyperthyroidism, but this was the first study that focused on PBDE alternatives and feline hyperthyroidism and suggested that TDCIPP might have similar health effects.

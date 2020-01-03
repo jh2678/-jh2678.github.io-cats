@@ -1,0 +1,5 @@
+---
+title: "Published Paper"
+---
+
+![Poutasse et al. Environ. Sci. Technol. 2019, 53, 9203−9213. (https://www.ncbi.nlm.nih.gov/pubmed/31290326)](./Poutasse_et_al_2019.pdf){width=100% height=400} 

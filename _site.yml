@@ -1,0 +1,12 @@
+name: "cat_project"
+output_dir: "."
+navbar:
+  title: "Flame Retardants and Feline Hyperthyroidism"
+  type:  inverse
+  left:
+    - text: "Summary of Results"
+      href: summary.html
+    - text: "Published Report"
+      href: paper.html
+output: 
+  html_document: "website"
